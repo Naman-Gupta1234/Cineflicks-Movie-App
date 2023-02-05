@@ -3,7 +3,7 @@ import "./App.css";
 import searchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 const API_KEY1 = process.env.REACT_APP_API_KEY;
-const API_URL = `http://www.omdbapi.com/?i=tt3896198&apikey=${API_KEY1}`;
+const API_URL = `https://www.omdbapi.com/?i=tt3896198&apikey=${API_KEY1}`;
 
 // const movie1 = {
 //   Title: "Captain Marvel",
